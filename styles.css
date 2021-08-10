@@ -1,0 +1,20 @@
+body{
+  background-color: #F4F4F2;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+h3{
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  padding-left: 10px;
+  position: relative;
+  text-align: left;
+}
+
+
+.profileimg{
+  width: 130px;
+  height: 160px;
+}
